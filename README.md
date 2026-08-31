@@ -23,7 +23,8 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 💼 [Buffet Akalum](https://github.com/heverton0001-ux/buffet-akalum) → Sistema de gestão de clientes em Python
+- 💼 [Buffet Akalum](https://github.com/heverton0001-ux/buffet-akalum) → Sistema web de gestão de clientes feito com Python (Streamlit) e PostgreSQL. *(Em desenvolvimento: aguardando etapa final de integração com dashboards no Power BI)*
+- 🛒 [Loja da Cidinha](https://github.com/heverton0001-ux/lojinha-da-cida) → E-commerce front-end (JS puro) com painel admin via Firebase/Cloudinary e checkout no WhatsApp
 - ⏳ Outros projetos de Data Science e análise de dados em breve!
 
 ---
